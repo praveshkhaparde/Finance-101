@@ -1,4 +1,5 @@
 # Finance-101
+Learner Space | Finance Club , IIT Bombay         [july’23]
 
 • Engaged in comprehensive exploration, covering various facets of personal finance, fundamental analysis
 intricacies, and the multifaceted banking sector and proficiently completing assignments in these areas
